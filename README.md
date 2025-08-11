@@ -1,5 +1,5 @@
 # Windows-AV-Evasion
-The easiest way to achieve a revershell bypassing Windows Defencer 
+The easiest way to achieve a reverse shell bypassing Windows Defender 
 
 <img width="324" height="324" alt="image" src="https://github.com/user-attachments/assets/18267b34-b490-4dec-b64b-f39866f96b88" />
 
