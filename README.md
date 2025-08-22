@@ -58,7 +58,7 @@ msfconsole -r test.rc
 
 Then we just send the `.exe` to the target machine and we can execute it either by using GUI (RDP) or using remote command execution.
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a1a195fd-e432-477e-b37c-0e72feb753bb" />
+![](img/rev_shell_AV_evasion.gif)
 
 
 The script embed will start a meterpreter shell using meterpreter waiting for connections 
